@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var a = 34;
+            var b = a + 45 + 65 + 66 - 34;
+            document.write(b);
+        </script>
+    </body>
+</html>

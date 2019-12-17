@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var num1 = 12 * 12 / 15; 
+            var num2 = num1 + 2000;
+            document.write("First number: ", num1, " ");
+            document.write("Second number: ", num2);
+        </script>
+        
+    </body>
+</html>

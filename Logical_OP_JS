@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Logical Operators</title>
+    </head>
+    <body>
+        <script>
+            document.write((5>2) && (12<20) , " ");
+            document.write((5>7) && (12<20));
+        </script>
+    </body>
+</html>

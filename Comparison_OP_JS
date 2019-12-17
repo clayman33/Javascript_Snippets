@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Comparison Operator code</title>
+    </head>
+    <body>
+        <script>
+            var num = 67; 
+            document.write(num == 100);
+            //it will return false since var num is actually 67
+        </script>
+        
+    </body>
+</html>

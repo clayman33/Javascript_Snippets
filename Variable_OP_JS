@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Variable Operator</title>
+    </head>
+    <body>
+        <script>
+            var age = 21;
+            var IsAdult = (age => 21) ? "Old enouth to drink": "Too young";
+            document.write(IsAdult);
+        </script>
+    </body>
+</html>

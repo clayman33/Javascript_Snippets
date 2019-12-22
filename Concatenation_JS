@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var string = "My name is: ";
+            var name = "Christian Layman";
+            document.write(string + name);
+        </script>
+        
+    </body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var age = 18; 
+            var name = "Christian you are too young "; 
+            if (age < 21){
+                alert(name);
+            }
+        </script>
+        
+    </body>
+</html>

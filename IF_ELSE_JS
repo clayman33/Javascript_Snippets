@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var num1 = 5; 
+            var num2 = 10; 
+            if(num1 > num2)
+                {
+                alert("The first number is lower than the second");
+                }
+            else{
+                alert("The second number is lower than the first");
+                }
+        </script>
+        
+    </body>
+</html>

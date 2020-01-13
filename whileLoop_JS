@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script> 
+            var x=0; 
+            while(x<=20){
+                document.write(x + "<br />");
+            x++;
+            }
+        </script>
+    </body>
+</html>

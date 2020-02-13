@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            var i=0;
+            while(i<=5)
+            {
+            document.write(i + "<br />");
+            i++;
+            }
+        </script>
+        
+    </body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Do_While_Loop</title>
+    </head>
+    <body>
+        <script>
+            var i = 15; 
+            do{
+                document.write(i + "<br />");
+                i++;
+            }
+            while (i < 50);
+        </script>
+    </body>
+</html>

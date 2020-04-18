@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script> 
+        function add(a,b){
+            var x = a + b;
+            return (x);
+        }
+        document.write("The result is " + add(5,5));
+        </script>
+        
+    </body>
+</html>

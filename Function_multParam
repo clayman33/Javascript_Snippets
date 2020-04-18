@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            function sayHello(name, age){
+                alert("Hi my name is " + name + " and I'm " + age + " years old.");
+            }
+            
+            sayHello("Christian", 36);
+        </script>
+    </body>
+</html>

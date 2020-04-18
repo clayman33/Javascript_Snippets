@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script>
+            function sayHello(Name){
+                alert("Hi " + Name);
+            }
+            sayHello("David");
+        </script>
+        
+    </body>
+</html>

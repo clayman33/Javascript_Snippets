@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <script> 
+        function calc(x,y){
+            return x * y;
+        }
+        
+        var a = calc(5,7);
+        document.write(a);
+        </script>
+        
+    </body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "javascript_snippets",
+  "version": "1.0.0",
+  "description": "This is my JS training snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayman33/Javascript_Snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clayman33/Javascript_Snippets/issues"
+  },
+  "homepage": "https://github.com/clayman33/Javascript_Snippets#readme"
+}

@@ -4,12 +4,14 @@
         <title>Page Title</title>
     </head>
     <body>
-        <script> 
-            var x=0; 
-            while(x<=20){
-                document.write(x + "<br />");
-            x++;
+        <script>
+            var i=0;
+            while(i<=5)
+            {
+            document.write(i + "<br />");
+            i++;
             }
         </script>
+        
     </body>
 </html>
